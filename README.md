@@ -11,6 +11,9 @@
 
 
 ## ⚡ Technologies
+![Ullu]
+![Alt Balaji]
+
 
 ### Language :
 ![English]
