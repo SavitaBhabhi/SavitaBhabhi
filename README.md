@@ -11,15 +11,15 @@
 
 
 ## ⚡ Technologies
-![Ullu]
-![Alt Balaji]
+Ullu
+Alt Balaji
 
 
 ### Language :
-![English]
-![Hindi]
-![Bhojpuri]
-![Bangalan]
+English
+Hindi
+Bhojpuri
+
 
 
 
