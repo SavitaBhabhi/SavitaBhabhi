@@ -1,5 +1,5 @@
-<h1 align="center">Hey... <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Savita Bhabhi waiting for my Ramfal Kaka </h1>
-<h3 align="center">Web Series Devloper from India 🇮🇳 </h3>
+<h1 align="center">Hey... <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">,  </h1>
+<h3 align="center">🇳 </h3>
 
 ## 📈 Stats
 <p align="center">
@@ -11,14 +11,11 @@
 
 
 ## ⚡ Technologies
-Ullu
-Alt Balaji
+
 
 
 ### Language :
-English
-Hindi
-Bhojpuri
+
 
 
 
